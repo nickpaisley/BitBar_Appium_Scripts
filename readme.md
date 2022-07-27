@@ -1,0 +1,1 @@
+## <p align='center'>Welcome to the BitBar Appium Sample Script!</p>
